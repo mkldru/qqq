@@ -185,4 +185,4 @@ var filterInt = function(value) {
 }
 
 
-client.login(config.token);
+client.login(7bKRLy6rUCxQv1JTyYoFLD58g35mmDCn);
